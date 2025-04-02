@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Dnyaneshwari Shinde </h1>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Dnyaneshwari-shinde&label=Profile%20Views&color=0e75b6&style=flat" alt="Dnyaneshwari-shinde" />
 </p>
 
 🚀 Blockchain | Web3 | Full-Stack Developer  
@@ -33,3 +33,4 @@
 
   ## 📬 **Get in Touch**  
 💌 Email: `dnyaneshwari.shinde9652@gmail.com` |  `dnyaneshwarishinde@aol.com`
+🚀 **Let's build the decentralized future together!**  
