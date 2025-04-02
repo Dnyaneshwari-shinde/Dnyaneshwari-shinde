@@ -14,8 +14,8 @@
 
 
 🛠 Tech Stack 
--Languages: Solidity, Rust, TypeScript, JavaScript, Python
--Frameworks: NestJS, Express, Hardhat, Next.js
--Blockchain: Ethereum, Polkadot, Solana, Hyperledger Fabric
--Databases: MongoDB, MySQL, PostgreSQL
--Dev Tools: Docker, Git, VS Code, CI/CD, Turborepo
+* Languages: Solidity, Rust, TypeScript, JavaScript, Python
+* Frameworks: NestJS, Express, Hardhat, Next.js
+* Blockchain: Ethereum, Polkadot, Solana, Hyperledger Fabric
+* Databases: MongoDB, MySQL, PostgreSQL
+* Dev Tools: Docker, Git, VS Code, CI/CD, Turborepo
