@@ -13,7 +13,7 @@
 🔍 Looking for exciting blockchain projects and collaborations
 
 
-🛠 Tech Stack
+🛠 Tech Stack 
 Languages: Solidity, Rust, TypeScript, JavaScript, Python
 Frameworks: NestJS, Express, Hardhat, Next.js
 Blockchain: Ethereum, Polkadot, Solana, Hyperledger Fabric
