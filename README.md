@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Dnyaneshwari Shinde
 
-<!--
-**Dnyaneshwari-shinde/Dnyaneshwari-shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Blockchain | Web3 | Full-Stack Developer  
 
-Here are some ideas to get you started:
+🌱 Currently exploring Solana, Zero-Knowledge Proofs, and Hyperledger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Passionate about decentralization, smart contracts, and cryptographic security
+
+🏆 4+ years of experience in Polkadot, Ethereum, and Gnosis Chain
+
+🛠 Proficient in Solidity, Rust, TypeScript, and NestJS
+
+🔍 Looking for exciting blockchain projects and collaborations
+
+
+🛠 Tech Stack
+Languages: Solidity, Rust, TypeScript, JavaScript, Python
+Frameworks: NestJS, Express, Hardhat, Next.js
+Blockchain: Ethereum, Polkadot, Solana, Hyperledger Fabric
+Databases: MongoDB, MySQL, PostgreSQL
+Dev Tools: Docker, Git, VS Code, CI/CD, Turborepo
